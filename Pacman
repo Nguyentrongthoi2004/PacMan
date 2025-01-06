@@ -1,0 +1,23 @@
+Pacman Game
+
+Features
+🎮 Classic Pacman gameplay.
+🧠 Smart AI-controlled ghosts with unique behaviors.
+📈 Multiple levels with increasing difficulty.
+🏆 Scoring and game-over system.
+Controls
+⬆⬇⬅➡ Arrow Keys: Move Pacman.
+How to Play
+🍒 Collect all the dots on the map to complete the level.
+👻 Avoid ghosts or eat them after grabbing a power-up.
+💔 The game ends when Pacman loses all lives.
+Requirements
+Unity Version: [Insert Unity Version Here]
+Platform: Windows/Mac/Other
+Installation
+📂 Clone the repository or download the project folder.
+🛠️ Open the project in Unity.
+▶️ Build and run the game.
+Credits
+Developed by [TrongThoi].
+
